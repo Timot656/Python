@@ -1,0 +1,5 @@
+print("I love birds")
+print(6)
+print("Hello python \n")
+print("birds are cool",7)
+print("bye python",end="*")
